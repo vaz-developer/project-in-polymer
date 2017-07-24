@@ -1,0 +1,23 @@
+{
+  "name": "Probando material design",
+  "authors": [
+    "vaz-developer <vaz-developer@gmail.com>"
+  ],
+  "description": "Es una pquela prueba para poder configurAR tambien el apache",
+  "main": "no hay",
+  "keywords": [
+    "tampovo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.2.1"
+  }
+}
